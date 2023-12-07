@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
@@ -25,3 +26,7 @@ console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
+=======
+var topics = "HTML, CSS, Git, JavaScript";
+console.log(topics);
+>>>>>>> 2cb32026fe0494fc3ef7a6d65ee95014f05d34c1
